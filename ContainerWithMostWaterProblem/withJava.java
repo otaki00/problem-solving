@@ -3,8 +3,8 @@ package ContainerWithMostWaterProblem;
 public class withJava {
     public int maxArea(int[] height) {
         /*
-        in this solution, we follow Two Pointer Approach
-        this means we put tow pointer one at first and one at last of array 
+        in this solution, we follow Two Pointers Approach
+        this means we put two pointers one at first and one at last of array 
         then we calculate the area and compare it with previous read 
         then we move foreward the poiter how has the smallest value beacuse we want the larggest area
         */
