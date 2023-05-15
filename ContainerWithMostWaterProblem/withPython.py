@@ -14,6 +14,9 @@ def maxArea(height):
         """
         :type height: List[int]
         :rtype: int
+        
+        in this solution we use two for loop to loop through each element 
+        and the rest of them,  to find each possible area and get the max one 
         """
         max_area = 0
         for left in range(len(height)):
