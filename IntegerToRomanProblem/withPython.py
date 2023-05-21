@@ -2,7 +2,7 @@
 
 
 # Wooooow, Mind bloowing
-# this is very simple this is god level i hope i will reach it one day 
+# this is very simple this its master level i hope i will reach it one day 
 # but i think its not scense because in ths you need to add more like what if it was 4000 or 6000
 # but still very impresive solution
 
